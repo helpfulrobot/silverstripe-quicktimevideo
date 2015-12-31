@@ -4,11 +4,11 @@
   *@author nicolaas [at] sunnysideup.co.nz
   **/
 
-class QuickTimeVideo extends File {
+class QuickTimeVideo extends File
+{
 
-	function forTemplate(){
-		return "test";
-	}
-
-
+    public function forTemplate()
+    {
+        return "test";
+    }
 }
